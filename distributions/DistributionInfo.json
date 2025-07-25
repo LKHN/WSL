@@ -112,12 +112,12 @@
                 "FriendlyName": "AlmaLinux OS 8",
                 "Default": false,
                 "Amd64Url": {
-                    "Url": "https://github.com/AlmaLinux/wsl-images/releases/download/v8.10.20250415.0/AlmaLinux-8.10_x64_20250415.0.wsl",
-                    "Sha256": "34c3bc6d3ac693968737c65db52b67f68b8c1a6f8b024450819841a967f59a3d"
+                    "Url": "https://github.com/LKHN/wsl-images/releases/download/v8.10.20250307.0/AlmaLinux-8.10_x64_20250307.0.wsl",
+                    "Sha256": "a25b758445d309550dc9bb71dcb87757e378eb2861e78e8817efb4ed9f8ff09e"
                 },
                 "Arm64Url": {
-                    "Url": "https://github.com/AlmaLinux/wsl-images/releases/download/v8.10.20250415.0/AlmaLinux-8.10_ARM64_20250415.0.wsl",
-                    "Sha256": "bd34f64b4822f6f115058f79cdbba85a1560360efbec14c3d699695023f8ca19"
+                    "Url": "https://github.com/LKHN/wsl-images/releases/download/v8.10.20250307.0/AlmaLinux-8.10_ARM64_20250307.0.wsl",
+                    "Sha256": "edfc1b8bf2c3bef7d4f074435fe9f1b2b54c21c86aa73b9292763b493d3c6cbf"
                 }
             },
             {
@@ -125,12 +125,12 @@
                 "FriendlyName": "AlmaLinux OS 9",
                 "Default": false,
                 "Amd64Url": {
-                    "Url": "https://github.com/AlmaLinux/wsl-images/releases/download/v9.6.20250522.0/AlmaLinux-9.6_x64_20250522.0.wsl",
-                    "Sha256": "e0f6acf1ce5aff80f2e60d3d8191c0a3857720149a7e5521b96e11777cdd2779"
+                    "Url": "https://github.com/LKHN/wsl-images/releases/download/v9.5.20250515.0/AlmaLinux-9.5_x64_20250515.0.wsl",
+                    "Sha256": "9ef5554ddc6104dea3b26f7370bfad56eaf098238857e6ee4234583e8f69f4a3"
                 },
                 "Arm64Url": {
-                    "Url": "https://github.com/AlmaLinux/wsl-images/releases/download/v9.6.20250522.0/AlmaLinux-9.6_ARM64_20250522.0.wsl",
-                    "Sha256": "58d1cc623c4570307825036460e51a406bdcf53b4b5a4148cf644f5f68ce48dd"
+                    "Url": "https://github.com/LKHN/wsl-images/releases/download/v9.5.20250515.0/AlmaLinux-9.5_ARM64_20250515.0.wsl",
+                    "Sha256": "9175af67daabfa995c1308c3218a2c1fcccced2a6f99bb4d5d6a67b05387d99d"
                 }
             },
             {
@@ -138,12 +138,12 @@
                 "FriendlyName": "AlmaLinux OS Kitten 10",
                 "Default": false,
                 "Amd64Url": {
-                    "Url": "https://github.com/AlmaLinux/wsl-images/releases/download/v10-kitten.20250415.0/AlmaLinux-Kitten-10_x64_20250415.0.wsl",
-                    "Sha256": "8db3788b5728e58e32a4a96d9aa26974a48bf7936ed376da434c5c441a0fa7bd"
+                    "Url": "https://github.com/LKHN/wsl-images/releases/download/v10-kitten.20250307.0/AlmaLinux-Kitten-10_x64_20250307.0.wsl",
+                    "Sha256": "53ffba9cd052921da0f67e13f91e16c1bacdda6f96b67a0e4900e01ce965c949"
                 },
                 "Arm64Url": {
-                    "Url": "https://github.com/AlmaLinux/wsl-images/releases/download/v10-kitten.20250415.0/AlmaLinux-Kitten-10_ARM64_20250415.0.wsl",
-                    "Sha256": "f48a55e9fd4da1b84c2a9e960a9f3bc6e9fa65387ed9181826e1f052b2ce545e"
+                    "Url": "https://github.com/LKHN/wsl-images/releases/download/v10-kitten.20250307.0/AlmaLinux-Kitten-10_ARM64_20250307.0.wsl",
+                    "Sha256": "0f233a8fb56b492068912e49959ff2d2ba87709f12016ad28115da7379c55d60"
                 }
             },
             {
@@ -151,12 +151,12 @@
                 "FriendlyName": "AlmaLinux OS 10",
                 "Default": true,
                 "Amd64Url": {
-                    "Url": "https://github.com/AlmaLinux/wsl-images/releases/download/v10.0.20250529.0/AlmaLinux-10.0_x64_20250529.0.wsl",
-                    "Sha256": "6775711048b86743588da7173ab45ca449b5c50a72fb87635313f059a9813d4b"
+                    "Url": "https://github.com/LKHN/wsl-images/releases/download/v10.0.20250725.0/AlmaLinux-10.0_x64_20250725.0.wsl",
+                    "Sha256": "81944dc3ff226a6d5262adb870b6b5cc886c45ad6d9e604ca791da4abc4f4d4d"
                 },
                 "Arm64Url": {
-                    "Url": "https://github.com/AlmaLinux/wsl-images/releases/download/v10.0.20250529.0/AlmaLinux-10.0_ARM64_20250529.0.wsl",
-                    "Sha256": "bc424bd9f954d36e871d4d874d35bc25e3ea7bdfe48337c30b927ed73a79b2fa"
+                    "Url": "https://github.com/LKHN/wsl-images/releases/download/v10.0.20250725.0/AlmaLinux-10.0_ARM64_20250725.0.wsl",
+                    "Sha256": "14a42f60a1c998bcaae6b525beee3465f65bbf383f4442606f0977d4816d3519"
                 }
             }
         ],
